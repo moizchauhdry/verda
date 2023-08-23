@@ -1816,8 +1816,7 @@
                                                     data-animation-offset="" data-m-rm-animation="" data-stagger="true"
                                                     data-custom-font-size="true"
                                                     style="font-size: 4vw; line-height: 4.4vw;">
-                                                    <h1>Empowering people globally to build their own lifestyle and live
-                                                        the ultimate dreams</h1>
+                                                    <h1>Empowering people globally to build their own lifestyle and live the ultimate dreams</h1>
                                                 </div>
                                             </div>
                                         </div>

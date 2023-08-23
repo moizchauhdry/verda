@@ -3078,9 +3078,8 @@
                                                     data-animation-offset="" data-m-rm-animation="" data-stagger="true"
                                                     data-custom-font-size="true"
                                                     style="font-size: 3vw; line-height: 3.3vw;">
-                                                    <h2 style=" color: #000000;">Enabling people with a reliable
-                                                        platform that provides the global opportunities for growth and
-                                                        success</h2>
+
+                                                    <h2 style=" color: #000000;">Enabling people with a reliable platform that provides the global opportunities for growth and success</h2>
                                                 </div>
                                                 <div id="fws_64e3cecb89027" data-midnight="" data-column-margin="none"
                                                     class="wpb_row vc_row-fluid vc_row inner_row  right_padding_tablet_25pct right_padding_phone_0px"
@@ -5159,7 +5158,7 @@
                                                                                 Shard, St James Park, Houses of
                                                                                 Parliment , Buckingham Palace, and St
                                                                                 Pauls Cathedral - stands out a new icon
-                                                                                on the London City skyline -  VRDa1
+                                                                                on the London City skyline - VRDa1
                                                                                 presents The Damac Tower Nine Elms
                                                                                 Property - Interior By Versace</span>
                                                                         </div>
